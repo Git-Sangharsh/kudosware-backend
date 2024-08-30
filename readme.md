@@ -39,9 +39,12 @@ To run this application locally, follow these steps:
    ```MONGODB_USERNAME=your_mongodb_username
    ```MONGODB_PASSWORD=your_mongodb_password
 
-4. **Start The Applicatio**:
-
-    ```npm start
+4. **Start The Application**:
+    ```
+git status
+git add
+git commit
+```
 
 ## Project Structure
 .
