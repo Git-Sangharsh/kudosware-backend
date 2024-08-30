@@ -30,21 +30,12 @@ To run this application locally, follow these steps:
    git clone <repository-url>
    cd <repository-directory>
 
-2. **Install dependencies**:
+2. **Install dependencies: npm install**:
 
-   ```npm install
+3. **Create a .env file in the root directory and add the following environment variables: MONGODB_USERNAME=your_mongodb_username && MONGODB_PASSWORD=your_mongodb_password**
 
-3. **Create a .env file in the root directory and add the following environment variables:**:
+4. **Start The Application: npm start**
 
-   ```MONGODB_USERNAME=your_mongodb_username
-   ```MONGODB_PASSWORD=your_mongodb_password
-
-4. **Start The Application**:
-    ```
-git status
-git add
-git commit
-```
 
 ## Project Structure
 .
